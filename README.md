@@ -6,7 +6,7 @@ For any questions or comments please contact
 If you use these codes in your work, please include the citation:
 
 "A theory for the slip and drag of superhydrophobic surfaces with surfactant"
-Julien R. Landel, François J. Peaudecerf, Fernando Temprano-Coleto, Frédéric Gibou, Raymond E. Goldstein & Paolo Luzzatto-Fegiz
+Julien R. Landel, François J. Peaudecerf, Fernando Temprano-Coleto, Frédéric Gibou, Raymond E. Goldstein & Paolo Luzzatto-Fegiz. 
 Journal of Fluid Mechanics, To Appear
 
 An open version of the paper is available at https://arxiv.org/abs/1904.01194
